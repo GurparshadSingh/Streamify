@@ -2,6 +2,12 @@
 
 An engineering networking application where students and professionals can discover peers, send connection requests, and chat.
 
+## Interface
+
+![Actual Streamify landing page](docs/landing.png)
+
+Screenshot of the local application; the landing page includes demonstration engineer profiles.
+
 ## Features
 
 - Sign-up, login, and profile onboarding
