@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "lucide-react": "^1.48.0",
+    "stream-chat": "^9.54.0",
+    "stream-chat-react": "^14.14.1"
+  }
+}
